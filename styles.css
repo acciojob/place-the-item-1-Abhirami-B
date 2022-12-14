@@ -1,2 +1,22 @@
+* {
+    margin:0;
+    box-sizing: border-box;
+}
+.container {
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:space-between;
+    width:100vw;
+    height:auto;
+    background-color: aquamarine;
+   
 
-/* Your CSS Code here. */
+}
+.divitems {
+    width:100px;
+    height:100px;
+    background-color: goldenrod;
+    color:white;
+    text-align: center;
+    
+}/* Your CSS Code here. */
