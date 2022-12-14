@@ -2,7 +2,7 @@
     margin:0;
     box-sizing: border-box;
 }
-.container {
+.holder {
     display:flex;
     flex-flow:row wrap;
     justify-content:space-between;
